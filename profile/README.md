@@ -1,5 +1,3 @@
-# Tomcat0x42's Gamedev Lab 
-
 - Games: https://tomcat42.itch.io/
 
 ## Resources
